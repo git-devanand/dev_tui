@@ -1,7 +1,8 @@
-import numpy
+#!/usr/bin/env python
+
 import os
 import getpass  		#To take inputs from user invisiblly not in echo back .
-import time
+
 os.system("tput setab 17")
 os.system('tput setaf 1')
 print('\t\t\t***** Hey to my TUI that makes life simple *****')
